@@ -1,0 +1,16 @@
+{
+  "name": "koe",
+  "version": "1.0.0",
+  "description": "pongton",
+  "main" : "index.js",
+  "scripts": {
+    "test": "hello",
+    "start" : "node index.js" // 
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "restify": "^4.3.0"
+  }
+}
